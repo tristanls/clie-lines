@@ -1,0 +1,17 @@
+{
+  "name": "clie-lines",
+  "version": "0.0.0",
+  "description": "Emit lines",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/clie-lines.git"
+  },
+  "keywords": [
+    "clie",
+    "command",
+    "lines"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
