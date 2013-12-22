@@ -1,6 +1,6 @@
 {
   "name": "clie-lines",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Emit lines",
   "main": "index.js",
   "repository": {
